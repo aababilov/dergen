@@ -1,0 +1,10 @@
+*~
+*.o
+*.so
+*.so.*
+*.a
+*.la
+parser.c
+parser.h
+parser.output
+dergen
